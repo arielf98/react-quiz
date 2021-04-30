@@ -1,7 +1,7 @@
 # TODO :
 - [x] API call \
-- [] Styling APP,\
-- [] Login System,
+- [ ] Styling APP,\
+- [ ] Login System,
 
 
 # Getting Started with Create React App
