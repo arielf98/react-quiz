@@ -1,6 +1,7 @@
 # TODO :
-Styling APP, .\
-Login System,
+[x] API call \
+[] Styling APP,\
+[]Login System,
 
 
 # Getting Started with Create React App
