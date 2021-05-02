@@ -1,6 +1,6 @@
 # TODO :
 - [x] API call,
-- [ ] Styling APP,
+- [x] Styling APP,
 - [ ] Login System,
 
 
